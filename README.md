@@ -1,24 +1,32 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/egS6fnZAdzk
+# 📊 Auralytics – Personal Finance Analytics Dashboard
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+**Auralytics** is a modern finance analytics web application that helps users track and understand their financial accounts and transactions using interactive visualizations and a clean, responsive UI.
 
-### Make sure to create a `.env` file with following variables -
+---
 
-```
-DATABASE_URL=
-DIRECT_URL=
+## 🚀 Features
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+- 🔐 **Secure Account Management** – Auth flow to access user-specific financial data
+- 💰 **Account Overview** – View multiple accounts with balances and recent activity
+- 📊 **Transaction Analytics** – Bar charts and tables of historical transactions
+- 🧾 **Detailed Transaction Table** – Filtered, paginated, and categorized views
+- 📅 **Date-Based Insights** – Track financial trends over time
+- ⚡ **Fast & Responsive UI** – Smooth user experience across devices
 
-GEMINI_API_KEY=
+---
 
-RESEND_API_KEY=
+## 🧱 Tech Stack
 
-ARCJET_KEY=
-```
+| Tech          | Description                          |
+|---------------|--------------------------------------|
+| **Next.js**   | React framework for server rendering |
+| **Tailwind CSS** | Modern utility-first CSS framework |
+| **TypeScript**| Type-safe development experience     |
+| **Prisma ORM**| Schema & DB management               |
+| **PlanetScale**| Scalable MySQL-compatible database  |
+| **Lucide Icons** | Elegant icon set for UI           |
+| **ShadCN/UI** | Prebuilt, customizable UI components |
+| **NextAuth.js**| Authentication and session handling |
+
+---
+
