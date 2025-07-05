@@ -227,7 +227,7 @@ export async function getUserTransactions(query = {}) {
   }
 }
 
-// Scan Receipt
+// Scan Receipt using Gemini AI
 export async function scanReceipt(file) {
   try {
     const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });

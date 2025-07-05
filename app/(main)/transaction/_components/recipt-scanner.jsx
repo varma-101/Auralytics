@@ -1,3 +1,4 @@
+/* Recipt Scanning Feature */
 "use client";
 
 import { useRef, useEffect } from "react";
