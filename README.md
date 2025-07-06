@@ -21,12 +21,9 @@
 |---------------|--------------------------------------|
 | **Next.js**   | React framework for server rendering |
 | **Tailwind CSS** | Modern utility-first CSS framework |
-| **TypeScript**| Type-safe development experience     |
 | **Prisma ORM**| Schema & DB management               |
-| **PlanetScale**| Scalable MySQL-compatible database  |
 | **Lucide Icons** | Elegant icon set for UI           |
 | **ShadCN/UI** | Prebuilt, customizable UI components |
-| **NextAuth.js**| Authentication and session handling |
 
 ---
 
