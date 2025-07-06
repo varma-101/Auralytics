@@ -1,3 +1,4 @@
+/*Email Template*/
 import {
   Body,
   Container,
