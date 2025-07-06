@@ -1,3 +1,4 @@
+/*Adding different categories*/
 export const defaultCategories = [
   // Income Categories
   {
