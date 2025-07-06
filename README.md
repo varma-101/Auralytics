@@ -1,7 +1,3 @@
-Got it! Here's a **final `README.md`** for your **Auralytics** project that includes a **clear installation guide with `npm install` and setup steps**, exactly as you'd expect in a professional project:
-
----
-
 ````markdown
 # 📊 Auralytics – Personal Finance Analytics Dashboard
 
@@ -46,7 +42,7 @@ Got it! Here's a **final `README.md`** for your **Auralytics** project that incl
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/auralytics.git
+git clone https://github.com/varma-101/auralytics.git
 cd auralytics
 ````
 
@@ -64,21 +60,6 @@ yarn install
 
 ### ✅ Step 3: Set Up Environment Variables
 
-Create a `.env` file in the root directory and add the following environment variables:
-
-```env
-# Database Connection URL
-DATABASE_URL="postgresql://your_db_user:your_db_password@localhost:5432/auralytics"
-
-# NextAuth Configuration
-NEXTAUTH_SECRET="your_random_secret_key"
-NEXTAUTH_URL="http://localhost:3000"
-```
-
-> 💡 You can generate a secure secret using:
-
-```bash
-openssl rand -base64 32
 ```
 
 ---
@@ -107,28 +88,6 @@ The app will be running at:
 
 ---
 
-## 📂 Folder Structure
-
-```
-auralytics/
-├── app/               # Next.js app routes and pages
-├── components/        # Reusable UI components
-├── prisma/            # Prisma schema and migrations
-├── lib/               # Helper and utility functions
-├── styles/            # Tailwind CSS styles
-├── public/            # Static files (images, icons, etc.)
-├── .env               # Environment variables (not committed)
-├── next.config.js     # Next.js config
-└── package.json       # Project metadata and scripts
-```
-
----
-
-## 🖼️ Screenshots
-
-> Add screenshots or GIFs of your UI here
-
----
 
 ## 🚀 Deployment
 
@@ -150,28 +109,3 @@ git commit -m "Add your feature"
 git push origin feature/YourFeature
 ```
 
----
-
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Your Name**
-GitHub: [@yourhandle](https://github.com/yourhandle)
-Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-```
-
-Let me know:
-- Your actual GitHub username
-- Whether you’re using Google/GitHub login for auth
-- If you'd like a section on **Docker**, **CI/CD**, or **seeding test data**
-
-I can instantly generate those sections too.
-```
