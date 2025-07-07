@@ -31,6 +31,8 @@
 
 ## 🛠️ Installation Guide
 
+# Note: Run seed.js file in actions folder to push sample data into database
+
 ### 📌 Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or newer)
